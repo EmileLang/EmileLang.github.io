@@ -1,0 +1,45 @@
+* {
+	padding:0;
+	margin:0;
+ 
+}
+body {
+    background-image: url(https://www.freejpg.com.ar/image-900/a1/a1be/F100008378-oficina.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    align-items: center;
+}
+input {
+
+    border-radius: 30px;
+    border: 4px groove gray;
+    background-color: silver;
+    padding: 5px;
+}
+
+textarea {
+    border-radius: 30px;
+    background-color: silver;
+    border: 2px inset gray;
+}
+
+div{
+    border: 2px ridge black;
+    background: rgba(34,34,34,.65);
+    border-radius: 50px;
+    width: 400px;
+    height: auto;
+    padding: 40px;
+    margin-top: 40px;
+
+}
+
+#boton {
+
+    width: 10px;
+    height: 5px;
+    border-radius: 5px;
+    margin-left: 30px;
+    padding: 19px;
+
+}
